@@ -37,7 +37,14 @@ days
 
 ---
 
-## I compulsively patch projects I use
+I compulsively patch projects I use
+
+![inline](commit-history.png)
+
+---
+
+## Makes life better
+
 
 ---
 
@@ -252,6 +259,22 @@ https://github.com/firmata/protocol/issues/1
 - Run linters
 - Delete stuff that's weird
 - Ask questions
+
+---
+
+#Why?
+
+^ asking you to do stuff for no reason is crazy
+
+---
+
+It's personal
+
+^ I can only tell you why I do it
+It teaches me new things
+I get to learn about new problems
+It's changed my carer
+It gives me chance to work with people around the world
 
 ---
 
