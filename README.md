@@ -92,6 +92,11 @@ Not even merged
 
 6 months, 16 comments, 3 issues and 2 prs
 
+^
+submitted a failing test showing what I meant
+Described electrical debouncing
+wrote my own and walked away
+
 ---
 
 ![fit](solved.png)
@@ -112,11 +117,13 @@ Not even merged
 
 ![fit](serialport-unit-tests.png)
 
+^ Kept breaking on me
+
 ---
 
-followed up with dozens of small tests
-and bugs I found while trying to test
-given commit access(!)
+- followed up with dozens of small tests
+- fixed bugs I found while trying to test
+- given commit access(!)
 
 ^ too afraid to merge anything though
 
@@ -140,6 +147,7 @@ documentation bug reports help a lot
 ![inline fit](npm-docs-2.png)
 
 ^ encourages you to read the source
+talk to maintainers
 
 ---
 
@@ -155,12 +163,7 @@ documentation bug reports help a lot
 
 ---
 
-# TLDR
-(great podcast, checkout Reply All too)
-
----
-
-![fit](file bug reports.png)
+![75%](file bug reports.png)
 
 ---
 
@@ -208,14 +211,14 @@ You only get beginners eyes once
 ## (part 2)
 ![fit](RS-232_full_serial_port.png)
 
----
-
-![fit](serialport-pulse.png)
-
 ^
 serialport was crashing on me so I went to see if I could fix it
 open issues unanswered for 10 months
 I'm now the maintainer so watch out
+
+---
+
+![fit](serialport-pulse.png)
 
 ---
 
@@ -257,9 +260,19 @@ https://github.com/firmata/protocol/issues/1
 - Node-Serialport (talking to hardware of all kinds)
 - Johnny-Five (JQuery for robots)
 - PouchDB (JS document database)
-- Shep (Manage your LAMBda functions)
+- Shep (Manage your lambda functions)
 
 ---
+
+## 24pullrequests.com
+
+---
+
+### http://yourfirstpr.github.io/
+
+---
+
+![](reconbot-2015.png)
 
 I am Francis
 @reconbot
