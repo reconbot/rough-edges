@@ -60,3 +60,31 @@ Not even merged
 ---
 
 ![fit](all issues.png)
+
+---
+
+![](dont-remember.gif)
+
+^ Oh man 966 I don't even remember any of them
+
+---
+
+How did this even start?
+
+---
+
+![fit](first issue.png)
+
+---
+
+![fit](first rejection.png)
+
+---
+
+![fit](first-major-issue.png)
+
+^ 6 months, 16 comments
+
+---
+
+![fit](solved.png)
