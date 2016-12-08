@@ -1,6 +1,9 @@
 # Rough Edges
 ## of open source
 
+^
+Speaker notes look like this. [Rendered PDF of talk](rough-edges.pdf).
+I used DeckSet to present. I wish I could export to html.
 ---
 
 You know
@@ -95,14 +98,15 @@ Not even merged
 
 ![fit](first rejection.png)
 
----
-
-6 months, 16 comments, 3 issues and 2 prs
 
 ^
 submitted a failing test showing what I meant
 Described electrical debouncing
 wrote my own and walked away
+
+---
+
+6 months, 16 comments, 3 issues and 2 prs
 
 ---
 
@@ -124,7 +128,8 @@ wrote my own and walked away
 
 ![fit](serialport-unit-tests.png)
 
-^ Kept breaking on me
+^ it kept breaking on me and I wanted it to stop
+"Cant test this because it's hardware."
 
 ---
 
