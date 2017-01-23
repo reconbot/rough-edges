@@ -4,6 +4,7 @@
 ^
 Speaker notes look like this. [Rendered PDF of talk](rough-edges.pdf).
 I used DeckSet to present. I wish I could export to html.
+
 ---
 
 You know
@@ -36,7 +37,7 @@ I've been programming for at least 11 or 12
 
 ---
 
-days
+weeks
 
 ---
 
@@ -44,16 +45,21 @@ I compulsively patch projects I use
 
 ![inline](commit-history.png)
 
+^
+graph made with Isometric Contributions
+https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien
+
 ---
 
-## Makes life better
-
+## I Think it Makes life better
 
 ---
 
 ![fit](firstpr.png)
 
-^ Just learned about XSS
+^
+So how did I start?
+Just learned about XSS
 
 ---
 
@@ -79,12 +85,18 @@ Not even merged
 
 ---
 
-# 966!
-![](dont-remember.gif)
+![fit](all commits.png)
+
+---
+
+![autoplay loop](shocked.mp4)
 
 
 ---
+
 # How did this start?
+
+---
 
 ![fit](button.gif)
 
