@@ -140,7 +140,7 @@ wrote my own and walked away
 
 ![fit](serialport-unit-tests.png)
 
-^ it kept breaking on me and I wanted it to stop
+^ it kept breaking johnny-five and I wanted it to stop
 "Cant test this because it's hardware."
 
 ---
@@ -155,9 +155,15 @@ wrote my own and walked away
 
 ![fit](docs-bugs.png)
 
+^ first merge of my own work
+
 ---
 
 documentation bug reports help a lot
+
+---
+
+Getting eyes on your work isn't showing off
 
 ---
 
@@ -185,6 +191,11 @@ talk to maintainers
 
 ![](always-read-the-source.jpg)
 
+
+---
+
+# File Bug Reports
+
 ---
 
 ![75%](file bug reports.png)
@@ -199,7 +210,8 @@ talk to maintainers
 
 ![fit](Confused Cat - Imgur.gif)
 
-^ wanted a docker cloud thing to host some community sites I like, docs are inconsistant and wrong a few places. I didn't write it down and I all I can say is read the source if you get lost and immediatly open an issue.
+^
+wanted a docker cloud thing to host some community sites I like, docs are inconsistent and wrong a few places. I didn't write it down and I all I can say is read the source if you get lost and immediately open an issue.
 
 ---
 
@@ -222,10 +234,14 @@ You only get beginners eyes once
 
 ---
 
+Always file bug reports
+
+---
+
 ![fit](slack-header.jpg)
 
 
-# new project
+# New project
 
 ^ http://1amstudios.com/2016/11/27/c64-slack-client/ runs slack and serialport!
 
@@ -271,11 +287,31 @@ https://github.com/firmata/protocol/issues/1
 
 ---
 
-# More Nice Things to Do
+# Work on tools you use
 
-- Run linters
+^
+Shep isn't the most polished tool for lambda but it will be the best tool if you have similar needs to bustle
+
+---
+
+# Things I Want in Shep
+
+- Custom builders `code => zip`
+
+- Deterministic deploy artifacts `sha => deploy`
+
+- Centralized Configuration for Lambda (not `shep`?)
+
+---
+
+# Nice first contributions
+
+- Run Linters
 - Delete stuff that's weird
 - Ask questions
+
+^
+All this stuff makes for a more approachable and maintainable project
 
 ---
 
@@ -287,11 +323,13 @@ https://github.com/firmata/protocol/issues/1
 
 It's personal
 
-^ I can only tell you why I do it
+^
+I can only tell you why I do it
 It teaches me new things
 I get to learn about new problems
 It's changed my carer
 It gives me chance to work with people around the world
+It's why I'm here today
 
 ---
 
@@ -300,11 +338,7 @@ It gives me chance to work with people around the world
 - Node-Serialport (talking to hardware of all kinds)
 - Johnny-Five (JQuery for robots)
 - PouchDB (JS document database)
-- Shep (Manage your lambda functions)
-
----
-
-## 24pullrequests.com
+- Shep (Manage your __lamb__da functions)
 
 ---
 
